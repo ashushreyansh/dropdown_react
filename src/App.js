@@ -4,7 +4,7 @@ import { Dropdown } from "./Components/Dropdown";
 function App() {
   return (
     <div className="App">
-      <h2>Should you use a dropwdown?</h2>
+      <div className="header">Should you use a dropwdown?</div>
       <Dropdown />
     </div>
   );

@@ -6,6 +6,8 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  gap: "10px";
   justify-content: center;
   align-items: center;
   width: 100%;
@@ -13,7 +15,7 @@
   background-color: #7bd7e2;
 }
 
-h2{
+.header {
   font-size: 26px;
   font-weight: 800;
 }
