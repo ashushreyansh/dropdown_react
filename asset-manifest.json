@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dropdown_react/static/css/main.eacc4fae.css",
+    "main.js": "/dropdown_react/static/js/main.3ca53b01.js",
+    "index.html": "/dropdown_react/index.html",
+    "main.eacc4fae.css.map": "/dropdown_react/static/css/main.eacc4fae.css.map",
+    "main.3ca53b01.js.map": "/dropdown_react/static/js/main.3ca53b01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eacc4fae.css",
+    "static/js/main.3ca53b01.js"
+  ]
+}
